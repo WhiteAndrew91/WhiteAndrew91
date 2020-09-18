@@ -22,17 +22,11 @@ I am a Junior Front End Developer whose journey started at the beginning of 2020
 
 ### Skills and Technologies
 
-<img src= "https://img.shields.io/badge/-React-62B6EC?style=for-the-badge&labelColor=black&logo=React"/>
-
+[![React Badge](<img src="https://img.shields.io/badge/-React-62B6EC?style=for-the-badge&labelColor=black&logo=React"/>)](#)
 <img src= "https://img.shields.io/badge/-jQuery-blue?style=for-the-badge&labelColor=black&logo=jQuery"/>
-
 <img src= "https://img.shields.io/badge/-Javascript-FCEB18?style=for-the-badge&labelColor=black&logo=Javascript"/>
-
-
 <img src= "https://img.shields.io/badge/-Html5-EA690F?style=for-the-badge&labelColor=black&logo=Html5"/>
-
 <img src= "https://img.shields.io/badge/-CSS3-0F44EA?style=for-the-badge&labelColor=black&logo=CSS3"/>
-
 <img src= "https://img.shields.io/badge/-GIT-f05033?style=for-the-badge&labelColor=black&logo=GIT"/>
 
 
