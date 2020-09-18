@@ -42,5 +42,5 @@ I am a Junior Front End Developer whose journey started at the beginning of 2020
 ### Portfolio
 
 <a href ="http://main.emdev.ro">
-<img src= "https://img.shields.io/badge/-main.mdev.ro-1A89DC?style=flat&logoColor=white&logo=Google Chrome"/>
+<img src= "https://img.shields.io/badge/-main.mdev.ro-1A89DC?style=flat&logoColor=white&logo="/>
 </a>
